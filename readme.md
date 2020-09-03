@@ -19,7 +19,7 @@ Accept M-Pesa payment directly on your store with the woza payment gateway for W
 
 #### Take M-Pesa payments easily and directly on your store
 
-Signup for an account [here](http://www.jisort.com/jisort-microfinance-system-pricing/)
+Signup for an account [here](http://my.jisort.com/signUp)
 
 Woza is available in:
 
